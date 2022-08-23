@@ -1,16 +1,15 @@
-### Hi there 👋
+### Technology Enthusiast
 
-<!--
-**Lemersom/Lemersom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Languages: pt-br native, english             
 
-Here are some ideas to get you started:
+*Some knowledge in:*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="22" height="22"/>
+ - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="22" height="22"/>
+ - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="22" height="22"/>
+ - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="22" height="22"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="22" height="22"/>
+ - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="22" height="22"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="22" height="22"/>
+ - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original-wordmark.svg" width="22" height="22"/>
+ 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lemersom&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+ 
