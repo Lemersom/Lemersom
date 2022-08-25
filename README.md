@@ -1,6 +1,6 @@
 ### Technology Enthusiast
 
-- Languages: Portuguese:brazil: native, English             
+- Languages: Portuguese :brazil: native, English             
 
 *Some knowledge in:*
 
