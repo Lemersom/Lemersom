@@ -2,7 +2,7 @@
 
 - Languages: Portuguese :brazil: native, English             
 
-*Some knowledge in:*
+*Knowledge:*
 
  - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="22" height="22"/>
  - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="22" height="22"/>
