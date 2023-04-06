@@ -11,7 +11,7 @@
  - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="32" height="32"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="32" height="32"/>
  - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original-wordmark.svg" width="32" height="32"/>
  
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lemersom&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lemersom&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
  
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lemersom&repo=Lemersom.github.io&theme=tokyonight)](https://github.com/Lemersom/Lemersom.github.io)
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lemersom&repo=Lemersom.github.io&theme=dark)](https://github.com/Lemersom/Lemersom.github.io)
  
