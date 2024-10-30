@@ -1,5 +1,3 @@
-### Technology Enthusiast      
----
 
  - [![My Skills](https://skillicons.dev/icons?i=js,nodejs,express,react)](https://skillicons.dev)
  - [![My Skills](https://skillicons.dev/icons?i=java,spring)](https://skillicons.dev)
