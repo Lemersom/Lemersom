@@ -9,7 +9,4 @@
  - [![My Skills](https://skillicons.dev/icons?i=git,github,docker,kubernetes)](https://skillicons.dev)
  - [![My Skills](https://skillicons.dev/icons?i=redis,rabbitmq)](https://skillicons.dev)
  - [![My Skills](https://skillicons.dev/icons?i=linux,windows)](https://skillicons.dev)
-
---- 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lemersom&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
  
